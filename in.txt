@@ -1,0 +1,10 @@
+0 2
+ab ac abbcaacac aab aacaab abbc aa
+a 0 1
+l 1 0
+a 0 3
+c 3 0
+b 2 3
+l 0 2
+b 3 2
+c 1 2
